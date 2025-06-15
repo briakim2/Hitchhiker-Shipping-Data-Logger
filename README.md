@@ -1,1 +1,2 @@
 # Hitchhiker-Shipping-Data-Logger
+Implements a basic environmental data logger designed to ride along with shipped items—similar to commercial cold chain monitoring tools. This system collects and logs temperature, humidity, and pressure readings using the MS8607 digital PHT sensor interfaced with a Microchip AVR128DB48 microcontroller via I²C. Simulates real-world embedded systems applications in supply chain monitoring, such as shipping pharmaceuticals, food, or electronics where environmental integrity is critical.
